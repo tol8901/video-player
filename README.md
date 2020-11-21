@@ -1,6 +1,5 @@
 # Description
-It is a simple video player.
-Here you can play/pause the video, change volume and mute/unmute video, search some moment by chicking on the videoplayback bar, also available full screen view and changing playback speed.
+It is a simple video player. Here you can play/pause the video, change volume and mute/unmute video, search some moment by clicking on the videoplayback bar, also available full screen view and changing playback speed.
 # Available
 https://tol8901.github.io/video-player/
 # Screenshot
