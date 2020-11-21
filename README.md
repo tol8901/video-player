@@ -4,4 +4,4 @@ Here you can play/pause the video, change volume and mute/unmute video, search s
 # Available
 https://tol8901.github.io/video-player/
 # Screenshot
-<img width="939" alt="1" src="https://user-images.githubusercontent.com/39213432/99876747-c23c6d80-2c09-11eb-95bf-ba14b6cedc15.png">
+<img width="662" alt="1" src="https://user-images.githubusercontent.com/39213432/99876785-1e9f8d00-2c0a-11eb-8b83-f844e187729d.png">
